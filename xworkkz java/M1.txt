@@ -1,0 +1,25 @@
+class M2
+{ 
+public static void main(String[] args)
+}
+\\static with AS
+
+public static void show()
+{
+
+}
+\\ WITHOUT STATIC WITH aS
+public  void print()
+{
+
+}
+\\STATIC WITHOUT AS
+static void click()
+{
+
+}
+\\WITHOUT STATIC WITHOUT AS
+void disp()
+{
+
+}

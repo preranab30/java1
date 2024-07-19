@@ -1,0 +1,22 @@
+class Tree
+{
+	public static void main(String[] forests)
+	{
+		if(forests.length==4)
+		{
+			System.out.println("get 4 values");
+			String forestName=forests[0]; 
+			String forestArea=forests[1]; 
+			String forestEstablished=forests[2]; 
+			String foreststate=forests[3]; 
+			System.out.println("forestName :" +forestName);
+			System.out.println("forestArea :" +forestArea);
+			System.out.println("forestEstablished :" +forestEstablished);
+			System.out.println("foreststate :" +foreststate);
+		}
+		System.out.println("not enough");
+	}
+	
+	
+		
+}
